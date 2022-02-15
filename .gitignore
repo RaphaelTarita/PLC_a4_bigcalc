@@ -1,0 +1,34 @@
+/.idea
+/out
+prj.iml
+*.jar
+
+Makefile
+
+# Example Files
+BigCalc.g4
+BigCalc.java
+BigCalcVisitorImpl.java
+
+# Generated Files
+BigCalc.interp
+BigCalc.tokens
+BigCalcBaseListener.java
+BigCalcBaseVisitor.java
+BigCalcLexer.interp
+BigCalcLexer.java
+BigCalcLexer.tokens
+BigCalcListener.java
+BigCalcParser.java
+BigCalcVisitor.java
+
+BigCalcProg.interp
+BigCalcProg.tokens
+BigCalcProgBaseListener.java
+BigCalcProgBaseVisitor.java
+BigCalcProgLexer.interp
+BigCalcProgLexer.java
+BigCalcProgLexer.tokens
+BigCalcProgListener.java
+BigCalcProgParser.java
+BigCalcProgVisitor.java

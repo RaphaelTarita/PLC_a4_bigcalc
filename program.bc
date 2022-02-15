@@ -1,0 +1,12 @@
+/*
+ * PLC WS 20/21
+ * Example program for BigCalcProg
+ */
+
+// variables
+
+t = 100; s = 200; u = 300; v = 400.0000000001; 
+
+// expression with variables and parentheses
+
+((t + s) / u * v);
